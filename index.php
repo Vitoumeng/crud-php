@@ -18,7 +18,7 @@
 
         <ul>
             <li><a href="">View</a></li>
-            <li><a href="">Add</a></li>
+            <li><a href="./add.student.php">Add</a></li>
             <li><a href="">Edit</a></li>
         </ul>
     </header>
