@@ -17,9 +17,9 @@
         <h1>Student List</h1>
 
         <ul>
-            <li><a href="">View</a></li>
-            <li><a href="./add.student.php">Add</a></li>
-            <li><a href="">Edit</a></li>
+            <li><a href="#">View</a></li>
+            <li><a href="./add_student.php">Add</a></li>
+            <li><a href="./edit_student.php">Edit</a></li>
         </ul>
     </header>
 

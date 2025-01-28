@@ -11,7 +11,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     if ($cnn->query($sql) === TRUE) {
         header("Location: index.php"); 
     } else {
-        echo "Error: " . $sql . "<br>" . $conn->error;
+        echo "Error: " . $sql . "<br>" . $cnn->error;
     }
 }
 ?>
